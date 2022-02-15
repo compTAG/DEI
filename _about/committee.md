@@ -5,3 +5,5 @@ redirect_from: /about/committee.html
 ---
 
 TODO: Fill in after meeting
+
+Name, affiliation, photo
