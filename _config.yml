@@ -1,13 +1,13 @@
 # Site settings
-title: WinCompTop
+title: DEI
 email:
 description: >
-  Website for the Women in Computational Topology Community
+  Website for Diversity, Equity, and Inclusion in the Computational Topology Community
 lang: en-US
 
-baseurl: "/WinCompTop-website" # the subpath of your site, e.g. /blog/
-url: https://compTAG.github.io/WinCompTop-website # the base hostname & protocol for your site
-git_address: https://github.com/compTAG/WinCompTop-website
+baseurl: "/DEI" # the subpath of your site, e.g. /blog/
+url: https://compTAG.github.io/DEI # the base hostname & protocol for your site
+git_address: https://github.com/compTAG/DEI
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
