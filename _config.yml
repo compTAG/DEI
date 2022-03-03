@@ -1,13 +1,13 @@
 # Site settings
-title: DEI
+title: DEI-in-CompTop
 email:
 description: >
   Website for Diversity, Equity, and Inclusion in the Computational Topology Community
 lang: en-US
 
-baseurl: "/DEI" # the subpath of your site, e.g. /blog/
-url: https://compTAG.github.io/DEI # the base hostname & protocol for your site
-git_address: https://github.com/compTAG/DEI
+baseurl: "/DEI-in-CompTop" # the subpath of your site, e.g. /blog/
+url: https://compTAG.github.io/DEI-in-CompTop # the base hostname & protocol for your site
+git_address: https://github.com/compTAG/DEI-in-CompTop
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
